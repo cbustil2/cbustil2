@@ -1,6 +1,6 @@
-# Hi, I'm [Christian]! 👋
+# Hi, I'm Christian! 👋
 
-I'm a student at the University of Notre Dame studying [Applied Computational Mathematics & Statistics and Theology].
+I'm a student at the University of Notre Dame studying Applied Computational Mathematics & Statistics and Theology.
 
 ## About Me
 - 🎓 Currently taking Introduction to Data Science
