@@ -1,6 +1,6 @@
 # Hi, I'm Christian Bustillo! 👋
 
-I'm a student at the University of Notre Dame studying Applied Computational Mathematics & Statistics and Theology.
+I'm a student at the University of Notre Dame studying Applied Computational Mathematics & Statistics and Theology with a minor in Data Science. My hope is to enter into research and work with Church Institutions.
 
 ## About Me
 - 🎓 Currently taking Introduction to Data Science
