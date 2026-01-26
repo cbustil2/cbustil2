@@ -11,9 +11,12 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
 - I play  guitar in a Praise & Worship Band
 - During my free time, I play volleyball with friends competitively.
 
-### Connect with me:
+## Check out my Projects:
+
+
+### Connect with Me:
 
 - [LinkedIn](https://www.linkedin.com/in/christian-bustillo-baa0a2312/)
-- 📧 School Email: [your-school-email@university.edu](mailto:cbustil2@nd.edu)
-- 💼 Personal Email: [your-business-email@company.com](mailto:christianjjb3@gmail.com)
+- 📧 School Email: [cbustil2@nd.edu](mailto:cbustil2@nd.edu)
+- 💼 Personal Email: [christianjjb3@gmail.com](mailto:christianjjb3@gmail.com)
 
