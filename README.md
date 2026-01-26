@@ -11,7 +11,7 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
 - I play  guitar in a Praise & Worship Band
 - During my free time, I play volleyball with friends competitively.
 
-## Check out my Projects:
+## Check out my [Projects](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/README.md):
 
 
 ### Connect with Me:
