@@ -9,13 +9,11 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
 ## Interests
 - I love studying and reading Church Documents and Theology
 - I play  guitar in a Praise & Worship Band
-- During my free time, I play volleyball with friends competitively. 
+- During my free time, I play volleyball with friends competitively.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[Email](mailto:christianjjb3@gmail.com)
-
-
-<br />
+- [LinkedIn](https://www.linkedin.com/in/christian-bustillo-baa0a2312/)
+- 📧 School Email: [your-school-email@university.edu](mailto:cbustil2@nd.edu)
+- 💼 Personal Email: [your-business-email@company.com](mailto:christianjjb3@gmail.com)
 
