@@ -7,9 +7,9 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
 - 🌱 Learning Python, pandas, and data visualization
 
 ## Interests: 
-- I love studying and reading Church Documents and Theology
-- I play  guitar in a Praise & Worship Band
-- During my free time, I play volleyball with friends competitively.
+- 🙏 I love studying and reading Church Documents and Theology
+- 🎸 I play  guitar in a Praise & Worship Band
+- 🏐 During my free time, I play volleyball with friends competitively.
 
 ## Applications and Skills: 
 - Python, R-Studio, Excel, Google Sheets
