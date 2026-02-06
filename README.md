@@ -14,11 +14,19 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
 ## Applications and Skills: 
 - Python, R-Studio, Excel, Google Sheets
 - Research, Theological Studies
+
+
 <code><img height="40" src="assets/python.png"></code>
 <code><img height="40" src="assets/RStudio.png"></code>
+<code><img height="40" src="assets/sql.png"></code>
+<code><img height="40" src="assets/pycharm.png"></code>
+<code><img height="40" src="assets/tidyverse-logo.png"></code>
+<br>
 <code><img height="40" src="assets/pandas.png"></code>
 <code><img height="40" src="assets/visual-studio-code.png"></code>
+<code><img height="40" src="assets/jupyter-notebook.png"></code>
 <code><img height="40" src="assets/numpy.png"></code>
+<code><img height="40" src="assets/raspberry.png"></code>
 
 
 ## Check out my [Projects](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/README.md):
