@@ -15,18 +15,14 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
 - Python, R-Studio, Excel, Google Sheets
 - Research, Theological Studies
 
+### 🛠️ Tech Stack
 
-<code><img height="40" src="assets/python.png"></code>
-<code><img height="40" src="assets/RStudio.png"></code>
-<code><img height="40" src="assets/sql.png"></code>
-<code><img height="40" src="assets/pycharm.png"></code>
-<code><img height="40" src="assets/tidyverse-logo.png"></code>
-<br>
-<code><img height="40" src="assets/pandas.png"></code>
-<code><img height="40" src="assets/visual-studio-code.png"></code>
-<code><img height="40" src="assets/jupyter-notebook.png"></code>
-<code><img height="40" src="assets/numpy.png"></code>
-<code><img height="40" src="assets/raspberry.png"></code>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+</p>
 
 
 ## Check out my [Projects](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/README.md):
