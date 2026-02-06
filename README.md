@@ -32,6 +32,7 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
     • Worked towards global institutional ethics for Catholic universities in conversation with writings and speeches from Pope Francis. 
   </div>
 </div>
+
 ## Check out my [Projects](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/README.md):
 
 
