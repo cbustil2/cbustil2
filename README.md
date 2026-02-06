@@ -19,6 +19,8 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
 </p>
 
+## Check out my [Projects](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/README.md):
+
 ## Past Work: 
 
 <div style="display: flex; align-items: center;">
@@ -34,9 +36,6 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
     </ul>
   </div>
 </div>
-
-## Check out my [Projects](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/README.md):
-
 
 ## Connect with Me:
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/christian-bustillo-baa0a2312/)
