@@ -21,10 +21,17 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
 
 ## Past Work: 
 
-<a href="https://nanovic.nd.edu" target="_blank">
-  <img src="https://www.uaces.org/sites/default/files/styles/large/public/2024-01/Nanovic_H_Logo_4C.png?itok=Ymb8WIvb" width="300" alt="Nanovic Institute for European Studies" />
-</a>
-
+<div style="display: flex; align-items: center;">
+  <a href="https://nanovic.nd.edu" target="_blank">
+    <img src="https://www.uaces.org/sites/default/files/styles/large/public/2024-01/Nanovic_H_Logo_4C.png?itok=Ymb8WIvb" width="250" alt="Nanovic Institute for European Studies" />
+  </a>
+  <div style="margin-left: 20px;">
+    <strong>Undergraduate Researcher — Nanovic Institute for European Studies</strong><br>
+    University of Notre Dame<br><br>
+    • Assisted with research for the "Moral Challenges of Catholic Universities" Project
+    • Worked towards global institutional ethics for Catholic universities in conversation with writings and speeches from Pope Francis. 
+  </div>
+</div>
 ## Check out my [Projects](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/README.md):
 
 
