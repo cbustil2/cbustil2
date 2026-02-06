@@ -19,8 +19,10 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
 </p>
 
-Applications:
-- Research, Theological Studies
+## Past Work: 
+
+[Nanovic Institute for European Studies](https://www.uaces.org/sites/default/files/styles/large/public/2024-01/Nanovic_H_Logo_4C.png?itok=Ymb8WIvb)
+
 
 ## Check out my [Projects](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/README.md):
 
