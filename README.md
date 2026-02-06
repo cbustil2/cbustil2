@@ -11,12 +11,7 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
 - 🎸 I play  guitar in a Praise & Worship Band
 - 🏐 During my free time, I play volleyball with friends competitively.
 
-## Applications and Skills: 
-- Python, R-Studio, Excel, Google Sheets
-- Research, Theological Studies
-
-### 🛠️ Tech Stack
-
+## Tools: 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
@@ -24,6 +19,8 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
 </p>
 
+Applications:
+- Research, Theological Studies
 
 ## Check out my [Projects](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/README.md):
 
