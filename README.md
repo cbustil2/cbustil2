@@ -28,8 +28,10 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
   <div style="margin-left: 20px;">
     <strong>Undergraduate Researcher — Nanovic Institute for European Studies</strong><br>
     University of Notre Dame<br><br>
-    - Assisted with research for the "Moral Challenges of Catholic Universities" Project
-    - Worked towards global institutional ethics for Catholic universities in conversation with writings and speeches from Pope Francis. 
+    <ul>
+      <li>Assisted with research for the "Moral Challenges of Catholic Universities" Project</li>
+      <li>Worked towards global institutional ethics for Catholic universities in conversation with writings and speeches from Pope Francis</li>
+    </ul>
   </div>
 </div>
 
