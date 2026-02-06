@@ -21,7 +21,9 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
 
 ## Past Work: 
 
-<img src="https://www.uaces.org/sites/default/files/styles/large/public/2024-01/Nanovic_H_Logo_4C.png?itok=Ymb8WIvb" width="300" alt="Nanovic Institute for European Studies" />
+<a href="https://nanovic.nd.edu/">
+  <img src="https://www.uaces.org/sites/default/files/styles/large/public/2024-01/Nanovic_H_Logo_4C.png?itok=Ymb8WIvb" width="300" alt="Nanovic Institute for European Studies" />
+</a>
 
 ## Check out my [Projects](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/README.md):
 
