@@ -21,7 +21,7 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
 
 ## Past Work: 
 
-<a href="https://nanovic.nd.edu/">
+<a href="https://nanovic.nd.edu" target="_blank">
   <img src="https://www.uaces.org/sites/default/files/styles/large/public/2024-01/Nanovic_H_Logo_4C.png?itok=Ymb8WIvb" width="300" alt="Nanovic Institute for European Studies" />
 </a>
 
