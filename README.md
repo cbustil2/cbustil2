@@ -42,7 +42,7 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
 </div>
 
 ## Connect with Me:
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/christian-bustillo-baa0a2312/)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/christian-bustillo-baa0a2312/)
 - 📧 School Email: [cbustil2@nd.edu](mailto:cbustil2@nd.edu)
 - 💼 Personal Email: [christianjjb3@gmail.com](mailto:christianjjb3@gmail.com)
 
