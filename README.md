@@ -22,7 +22,7 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
 ## Check out my [Projects](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/README.md):
 [Spotify Data App](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/basic_streamlit_app/Spotify%20Data%20App/README.md) 
 <p>
-  <img src="https://m.media-amazon.com/images/I/51rttY7a+9L.png" width="180">
+  <img src="https://m.media-amazon.com/images/I/51rttY7a+9L.png" width="100">
 </p>
 ## Past Work: 
 
