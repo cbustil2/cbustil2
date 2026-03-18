@@ -24,7 +24,7 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
 <p>
   <img src="https://m.media-amazon.com/images/I/51rttY7a+9L.png" width="100">
 </p>
-
+### Tidying Data: [Federal R&D Budgets](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/TidyData-Project/README.md)
 ## Past Work: 
 
 <div style="display: flex; align-items: center;">
