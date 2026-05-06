@@ -18,17 +18,7 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
 </p>
-<code><img height="40" src="assets/python.png"></code>
-<code><img height="40" src="assets/RStudio.png"></code>
-<code><img height="40" src="assets/sql.png"></code>
-<code><img height="40" src="assets/pycharm.png"></code>
-<code><img height="40" src="assets/tidyverse-logo.png"></code>
-<br>
-<code><img height="40" src="assets/pandas.png"></code>
-<code><img height="40" src="assets/visual-studio-code.png"></code>
-<code><img height="40" src="assets/jupyter-notebook.png"></code>
-<code><img height="40" src="assets/numpy.png"></code>
-<code><img height="40" src="assets/raspberry.png"></code>
+
 
 ## Check out my [Projects](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/README.md):
 [Spotify Data App](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/basic_streamlit_app/Spotify%20Data%20App/README.md) 
