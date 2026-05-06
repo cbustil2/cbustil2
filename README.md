@@ -32,7 +32,7 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
 A Streamlit app that helps users explore Spotify track features to find songs to dance to, vibe to, or discover. Focuses on interactive filtering and visualizing audio characteristics like energy, tempo, and danceability.
 
 ## Tidying Data: 
-[Federal R&D Budgets](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/TidyData-Project/README.md)
+**[Federal R&D Budgets →](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/TidyData-Project/README.md)**
 A project centered on learning how to tidy messy datasets using tools like melt(), split(), and pivot(). The cleaned data is then visualized to reveal trends in federal research and development spending over time.
 
 ## Machine Learning Streamlit App:
