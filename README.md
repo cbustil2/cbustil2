@@ -29,15 +29,19 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
 <p>
   <img src="https://m.media-amazon.com/images/I/51rttY7a+9L.png" width="100">
 </p>
+A Streamlit app that helps users explore Spotify track features to find songs to dance to, vibe to, or discover. Focuses on interactive filtering and visualizing audio characteristics like energy, tempo, and danceability.
 
 ## Tidying Data: 
 [Federal R&D Budgets](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/TidyData-Project/README.md)
+A project centered on learning how to tidy messy datasets using tools like melt(), split(), and pivot(). The cleaned data is then visualized to reveal trends in federal research and development spending over time.
 
 ## Machine Learning Streamlit App:
 **[View Project →](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/tree/main/MLStreamlitApp)**
+An interactive app where users upload their own dataset and apply supervised learning models such as linear regression and logistic regression. Emphasizes understanding model assumptions, graphing outputs, and interpreting results
 
 ## Unsupervised Machine Learning:
 **[View Project →](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/tree/main/MLUnsupervisedApp)** 
+A Streamlit app that guides users through applying unsupervised learning techniques like K‑means clustering, hierarchical clustering, and PCA. Users can upload or select datasets, clean them, choose features, and explore natural groupings through cluster visualizations, elbow curves, and PCA plots.
 
 ## Past Work: 
 
