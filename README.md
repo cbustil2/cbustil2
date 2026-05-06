@@ -24,6 +24,7 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
 
 
 ## Check out my [Projects](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/README.md):
+## Streamlit App
 [Spotify Data App](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/basic_streamlit_app/Spotify%20Data%20App/README.md) 
 <p>
   <img src="https://m.media-amazon.com/images/I/51rttY7a+9L.png" width="100">
@@ -31,6 +32,12 @@ I'm a student at the University of Notre Dame studying Applied Computational Mat
 
 ## Tidying Data: 
 [Federal R&D Budgets](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/blob/main/TidyData-Project/README.md)
+
+## Machine Learning Streamlit App:
+**[View Project →](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/tree/main/MLStreamlitApp)**
+
+## Unsupervised Machine Learning:
+**[View Project →](https://github.com/cbustil2/Bustillo-Data-Science-Portfolio/tree/main/MLUnsupervisedApp)** 
 
 ## Past Work: 
 
